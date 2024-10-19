@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi there! 👋 I'm Arth Sharma
 
-<!--
-**ArthSharma1504/ArthSharma1504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+🎓 3rd-year Computer Science student
+💻 Aspiring Full-Stack Developer
+🚀 Passionate about coding and creating innovative solutions
+📚 Constantly learning new technologies and improving my skills
 
-Here are some ideas to get you started:
+-------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects
+face_app: A facial recognition web application
+CRUD_with_NODE: Basic CRUD operations using Node.js
+FarmEase: A platform to assist farmers with weather forecasts and crop recommendations
+
+--------------------------------------------------------------------------------------
+
+Let's Connect!
+LinkedIn
+X (Twitter)

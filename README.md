@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [FarmEase](https://github.com/ArthSharma1504/FarmEase)
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning ***MERN***
 
 - 💬 Ask me about **react,Flask,Codeigniter3**
 
